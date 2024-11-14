@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/unique_spawn_egg",
+  "textures": {
+    "0": "item/vex_spawn_egg",
+    "particle": "item/vex_spawn_egg"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 96945345 },
+      "model": "xhookahs:item/hookah"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "values": [
+      "minecraft:moss_block",
+      "minecraft:moss_carpet",
+      "#minecraft:leaves",
+      "#minecraft:saplings",
+      "#minecraft:flowers",
+      "minecraft:crimson_fungus",
+      "minecraft:warped_fungus",
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+      "minecraft:fern",
+      "minecraft:large_fern",
+      "minecraft:short_grass",
+      "minecraft:tall_grass",
+      "minecraft:dead_bush",
+      "minecraft:cactus",
+      "minecraft:bamboo",
+      "minecraft:sugar_cane",
+      "minecraft:warped_roots",
+      "minecraft:crimson_roots",
+      "minecraft:nether_sprouts",
+      "minecraft:weeping_vines",
+      "minecraft:twisting_vines",
+      "minecraft:big_dripleaf",
+      "minecraft:small_dripleaf",
+      "minecraft:lily_pad",
+      "minecraft:nether_wart",
+      "minecraft:shroomlight",
+      "minecraft:kelp",
+      "minecraft:dried_kelp",
+      "minecraft:rotten_flesh",
+      "minecraft:wheat"
+    ]
+  }
+  
