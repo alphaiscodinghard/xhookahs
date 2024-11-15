@@ -1,0 +1,16 @@
+{
+    "data_pack": {
+        "load": ["src"],
+        "pack_format": 48,
+        "zipped": true
+    },
+    "resource_pack": {
+        "load": ["src"],
+        "pack_format": 34,
+        "zipped": true
+    },
+    "output": "build",
+    "author": "xlpha",
+    "version": "1.1",
+    "name": "xlpha's hookahs"
+}
