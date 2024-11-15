@@ -28,7 +28,7 @@
           "id": "minecraft:marker",
           "Tags": ["xh", "xh_place_marker"]
         },
-        "minecraft:custom_model_data": 96945345,
+        "minecraft:custom_model_data": 228001,
         "minecraft:max_stack_size": 3,
         "minecraft:item_name": "[{\"text\":\"Кальян\"}]"
       }

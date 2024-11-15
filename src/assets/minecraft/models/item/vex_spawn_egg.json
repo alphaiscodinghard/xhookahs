@@ -6,8 +6,68 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 96945345 },
-      "model": "xhookahs:item/hookah"
+      "predicate": { "custom_model_data": 228001 },
+      "model": "xhookahs:item/blue_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228002 },
+      "model": "xhookahs:item/black_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228003 },
+      "model": "xhookahs:item/brown_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228004 },
+      "model": "xhookahs:item/cyan_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228005 },
+      "model": "xhookahs:item/gray_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228006 },
+      "model": "xhookahs:item/green_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228007 },
+      "model": "xhookahs:item/light_blue_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228008 },
+      "model": "xhookahs:item/light_gray_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228009 },
+      "model": "xhookahs:item/lime_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228010 },
+      "model": "xhookahs:item/magenta_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228011 },
+      "model": "xhookahs:item/orange_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228012 },
+      "model": "xhookahs:item/pink_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228013 },
+      "model": "xhookahs:item/purple_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228014 },
+      "model": "xhookahs:item/red_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228015 },
+      "model": "xhookahs:item/white_hookah"
+    },
+    {
+      "predicate": { "custom_model_data": 228016 },
+      "model": "xhookahs:item/yellow_hookah"
     }
   ]
 }

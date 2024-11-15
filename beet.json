@@ -2,12 +2,12 @@
     "data_pack": {
         "load": ["src"],
         "pack_format": 48,
-        "zipped": true
+        "zipped": false
     },
     "resource_pack": {
         "load": ["src"],
         "pack_format": 34,
-        "zipped": true
+        "zipped": false
     },
     "output": "build",
     "author": "xlpha",
