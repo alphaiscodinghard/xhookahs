@@ -75,3 +75,4 @@ execute if entity @s[nbt={SelectedItem:{id:"minecraft:yellow_dye"}}] run tag @s 
 #execute if entity @s[nbt={SelectedItem:{id:"minecraft:feather"}}] run tag @s add xh_this
 #execute if entity @s[nbt={SelectedItem:{id:"minecraft:feather"}}] as @e[type=interaction, tag=xh, distance=..6] run function xhookahs:finders/find_used_f
 #execute if entity @s[nbt={SelectedItem:{id:"minecraft:feather"}}] run tag @s remove xh_this
+execute as @e[type=interaction, tag=xh, distance=..6] run data remove entity @s interaction
